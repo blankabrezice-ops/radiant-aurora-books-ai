@@ -1,0 +1,9 @@
+RADIANT AURORA BOOKS AI – različica 4
+
+1. Vsebino mape naložite na statično spletno gostovanje (npr. Netlify Drop ali Cloudflare Pages). Naložite CELOTNO MAPO, ne samo index.html.
+2. Po objavi preverite naslovnice, iskanje in gumbe na telefonu.
+3. Gumbi vodijo na iskanje knjige na Lulu/Amazonu, NE na neposredno preverjene izdelke. Obiskovalec lahko v trgovini vidi tudi druge avtorje. Za neposredne povezave potrebujemo URL posamezne izdaje.
+4. Trenutno ni strežniškega sistema za samodejno objavljanje na družbenih omrežjih, ni povezanega AI, ni plačanih oglasov. Vrtiljak deluje le na odprti spletni strani.
+5. Ko je stran objavljena, lahko povezavo delite po svetu; samo objava strani še ne prinese obiskovalcev.
+6. Pred objavo na Google Play je potrebna ločena Android različica, pregled pravil in testiranje.
+7. Naslovnice so izrezi posnetkov zaslona; priporočene so izvirne slike naslovnic.

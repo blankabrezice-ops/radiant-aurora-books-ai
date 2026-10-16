@@ -1,0 +1,24 @@
+RADIANT AURORA BOOKS AI – v6
+
+Ta paket ohrani obstoječo galerijo in doda pripravljeno avtomatizacijo.
+Trenutno NI povezan z Amazonom, Lulu, GitHubom ali Cloudflare API.
+
+Za resnično samodejno delovanje je potrebno:
+1. Pridobiti dovoljen, zanesljiv HTTPS vir JSON podatkov, ki vsebuje SAMO vaše knjige.
+   Iskalne strani Amazon/Lulu niso tak vir. Če vir ni na voljo, je potrebna
+   drugačna odobrena integracija ali ročni vnos novih naslovov.
+2. Naložiti vse datoteke tega paketa v zaseben GitHub repozitorij.
+3. V GitHub Actions secrets nastaviti RADIANT_BOOKS_FEED_URL,
+   CLOUDFLARE_API_TOKEN in CLOUDFLARE_ACCOUNT_ID.
+4. GitHub Actions lahko dnevno preverja vir in posodablja books.json;
+   nato lahko objavi spremembe v Cloudflare Pages.
+
+VARNOST: nikoli ne pošiljajte gesel ali API ključev v pogovor ali javno kodo.
+Datoteka automation/sync_books.py preveri avtorja in domeno povezave.
+Vir mora biti JSON seznam z elementi, npr.:
+[{"title":"Nova knjiga","author":"Radiant Aurora","store":"Lulu",
+"product_url":"https://www.lulu.com/...","image":"https://.../cover.jpg",
+"lang":"sl","format":"Hardcover","price":"20 €"}]
+
+Pred objavo preverite, da v novi galeriji ni izgubljenih obstoječih funkcij.
+Obstoječa stran Cloudflare ostane nespremenjena, dokler je ne objavite znova.

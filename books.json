@@ -1,0 +1,130 @@
+[
+  {
+    "title": "BARTMANN – KNJIGA KOJA TE MIJENJA",
+    "lang": "hr",
+    "price": "21,99 €",
+    "format": "Paperback",
+    "store": "Lulu",
+    "image": "cover0.jpg"
+  },
+  {
+    "title": "BARTMANN: THE BOOK THAT CHANGES YOU",
+    "lang": "en",
+    "price": "$24.99",
+    "format": "Paperback",
+    "store": "Amazon",
+    "image": "amazon2.jpg"
+  },
+  {
+    "title": "BARTMANN: THE BOOK THAT CHANGES YOU – Kindle edition",
+    "lang": "en",
+    "price": "$12.99",
+    "format": "Kindle",
+    "store": "Amazon",
+    "image": "amazon6.jpg"
+  },
+  {
+    "title": "LEVITSKI ZAKONIK",
+    "lang": "hr",
+    "price": "22,99 €",
+    "format": "Hardcover",
+    "store": "Lulu",
+    "image": "cover1.jpg"
+  },
+  {
+    "title": "GENEZA – ZAČETEK VSEGA",
+    "lang": "sl",
+    "price": "79,99 €",
+    "format": "Hardcover",
+    "store": "Lulu",
+    "image": "cover2.jpg"
+  },
+  {
+    "title": "GENEZA – POČETAK SVEGA",
+    "lang": "hr",
+    "price": "89,99 €",
+    "format": "Hardcover",
+    "store": "Lulu",
+    "image": "cover3.jpg"
+  },
+  {
+    "title": "EKSODUS – IZ SUŽENJSTVA V SVOBODO",
+    "lang": "sl",
+    "price": "89,99 €",
+    "format": "Hardcover",
+    "store": "Lulu",
+    "image": "cover4.jpg"
+  },
+  {
+    "title": "EKSODUS – IZ ROPSTVA U SLOBODU",
+    "lang": "hr",
+    "price": "89,99 €",
+    "format": "Hardcover",
+    "store": "Lulu",
+    "image": "cover5.jpg"
+  },
+  {
+    "title": "Lumi in zvezda, ki je izgubila svetlobo",
+    "lang": "sl",
+    "price": "20,37 €",
+    "format": "Hardcover",
+    "store": "Lulu",
+    "image": "cover6.jpg"
+  },
+  {
+    "title": "Lumi i zvijezda koja je izgubila svjetlost",
+    "lang": "hr",
+    "price": "20,37 €",
+    "format": "Hardcover",
+    "store": "Lulu",
+    "image": "cover7.jpg"
+  },
+  {
+    "title": "LEVITICUS: HOLINESS IN THE MIDST OF LIFE",
+    "lang": "en",
+    "price": "$27.96",
+    "format": "Hardcover",
+    "store": "Amazon",
+    "image": "amazon0.jpg"
+  },
+  {
+    "title": "THE 5D BOOK OF LIGHT",
+    "lang": "en",
+    "price": "$12.99",
+    "format": "Kindle",
+    "store": "Amazon",
+    "image": "amazon1.jpg"
+  },
+  {
+    "title": "EXODUS: FROM SLAVERY TO FREEDOM – PART II",
+    "lang": "en",
+    "price": "$49.99",
+    "format": "Hardcover",
+    "store": "Amazon",
+    "image": "amazon3.jpg"
+  },
+  {
+    "title": "EXODUS: FROM SLAVERY TO FREEDOM – PART I",
+    "lang": "en",
+    "price": "$49.99",
+    "format": "Hardcover",
+    "store": "Amazon",
+    "image": "amazon4.jpg"
+  },
+  {
+    "title": "Lumi and the Star Who Lost Her Light",
+    "lang": "en",
+    "price": "$16.33",
+    "format": "Paperback",
+    "store": "Amazon",
+    "image": "amazon5.jpg"
+  },
+  {
+    "title": "GENESIS: THE BEGINNING OF EVERYTHING",
+    "lang": "en",
+    "price": "$79.99",
+    "format": "Hardcover",
+    "store": "Amazon",
+    "image": "amazon7.jpg"
+  }
+]

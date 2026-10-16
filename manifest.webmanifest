@@ -1,0 +1,9 @@
+{
+  "name": "Radiant Aurora Books AI",
+  "short_name": "Aurora Books",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c1022",
+  "theme_color": "#0c1022",
+  "description": "Osebna knjižna galerija Radiant Aurora®"
+}

@@ -1,0 +1,5 @@
+RADIANT AURORA BOOKS AI – lokalni prototip
+
+Razširite ZIP in odprite index.html v brskalniku. Vse slike morajo ostati v isti mapi.
+Povezave vodijo na iskanje v Lulu in Amazon, ne na preverjene strani izdelkov.
+Samodejna promocija na zunanjih platformah še ni vključena.

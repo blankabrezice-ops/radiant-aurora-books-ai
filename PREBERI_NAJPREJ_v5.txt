@@ -1,0 +1,12 @@
+RADIANT AURORA BOOKS AI — različica 5 (priprava na samodejni katalog)
+
+V tej različici so ohranjene vse obstoječe knjige in naslovnice.
+Spletna stran zdaj zna prebrati knjige iz datoteke books.json.
+Če se books.json posodobi, se ob naslednjem obisku strani prikažejo nove knjige.
+
+POMEMBNO: samodejno preverjanje Amazon/Lulu in samodejno objavljanje na Cloudflare ŠE NISTA VKLJUČENA.
+Potrebna je ločena strežniška avtomatizacija, dovoljen dostop do podatkov ter nastavitev pravic za objavo.
+Iskalni rezultati Amazon/Lulu niso zanesljiv dokaz avtorstva in ne smejo biti slepo dodani.
+
+Za objavo različice 5 naložite VSE datoteke iz te ZIP datoteke skupaj, ne le index.html.
+Prejšnja Cloudflare različica ostane nespremenjena, dokler ne objavite nove.
