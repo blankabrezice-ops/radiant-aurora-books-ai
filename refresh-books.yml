@@ -17,7 +17,7 @@ jobs:
         env:
           RADIANT_BOOKS_FEED_URL: ${{ secrets.RADIANT_BOOKS_FEED_URL }}
           RADIANT_AUTHOR: Radiant Aurora
-        run: python automation/sync_books.py
+        run: python sync_books.py
       - name: Commit changed catalog
         run: |
           git config user.name 'radiant-aurora-bot'
