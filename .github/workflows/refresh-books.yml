@@ -22,7 +22,7 @@ jobs:
           python-version: '3.11'
 
       - name: Preveri nove knjige
-        run: python automation/sync_books.py
+        run: python sync_books.py 
 
       - name: Shrani spremembe
         run: |
