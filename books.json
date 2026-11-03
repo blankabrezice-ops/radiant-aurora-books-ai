@@ -160,5 +160,14 @@
   "store": "Amazon",
   "image": "LACERTA_ENGLISH_FRONT_COVER_AMAZON.jpg",
   "url": "https://www.amazon.com/dp/B0HPGWB7B7"
-}
+},
+  {
+    "title": "NUMERI – MED PUŠČAVO IN OBLJUBO",
+    "lang": "sl",
+    "price": "24,90 €",
+    "format": "Hardcover",
+    "store": "Lulu",
+    "image": "numeri_naslovnica_web.jpg",
+    "url": "https://www.lulu.com/shop/radiant-aurora/numeri/hardcover/product-p68ewqp.html"
+  }
 ]
